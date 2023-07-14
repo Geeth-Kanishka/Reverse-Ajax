@@ -1,3 +1,3 @@
 # Reverse-Ajax-
 
-reverse Ajac in Wildfly to periodically send a message to client
+reverse Ajax in Wildfly to periodically send a message to client
